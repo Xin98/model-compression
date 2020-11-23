@@ -8,14 +8,6 @@ Everything about Model Compression (Probably the **most complete** repository?).
 
 关于模型压缩的所有资料，包括：介绍、综述文章、最新文章、代表工作及其代码、常用数据集、硕博士论文、比赛等等。(可能是**目前最全**的模型压缩资料库？) *欢迎一起贡献！* 如果认为本仓库有用，请在你的论文和其他出版物中进行引用！ 
 
-```
-@Misc{transferlearning.xyz,
-howpublished = {\url{http://transferlearning.xyz}},   
-title = {Everything about Model Compression and Domain Adapation},  
-author = {Wang, Jindong and others}  
-}  
-```
-
 <table>
     <tr>
         <td>Contents</td>
@@ -56,13 +48,13 @@ author = {Wang, Jindong and others}
 
 **一个很好的网站，可以直接看到最新的arXiv文章: [Model Compression](http://arxitics.com/search?q=transfer%20learning&sort=updated#1904.01376/abstract), [Domain adaptation](http://arxitics.com/search?q=domain%20adaptation&sort=updated)**
 
-[模型压缩文章汇总 Awesome Model Compression papers](https://github.com/jindongwang/transferlearning/tree/master/doc/awesome_paper.md)
+[模型压缩文章汇总 Awesome Model Compression papers](https://github.com/Xin98/model-compression/blob/master/doc/awesome_paper.md)
 
 - **Weekly latest papers**
 
   - 20201123 [文章名](https://arxiv.org/abs/2011.06844)
 
-[**更多 More...**](https://github.com/jindongwang/transferlearning/tree/master/doc/awesome_paper.md)
+[**更多 More...**](https://github.com/Xin98/model-compression/blob/master/doc/awesome_paper.md)
 
 - - -
 
@@ -110,12 +102,12 @@ Here are some articles on Model Compression theory and survey.
 
 - Latest theory papers
   
-[**更多 More...**](https://github.com/jindongwang/transferlearning/tree/master/doc/awesome_paper.md)
+[**更多 More...**](https://github.com/Xin98/model-compression/blob/master/doc/awesome_paper.md)
 _ _ _
 
 ## 4.Code (代码)
 
-请见[这里](https://github.com/jindongwang/transferlearning/tree/master/code) | Please see [HERE](https://github.com/jindongwang/transferlearning/tree/master/code) for some popular Model Compression codes.
+请见[这里](https://github.com/Xin98/model-compression/blob/master/code/README.md) | Please see [HERE](https://github.com/Xin98/model-compression/blob/master/code/README.md) for some popular Model Compression codes.
 
 _ _ _
 
@@ -123,9 +115,9 @@ _ _ _
 
 Here are some Model Compression scholars and labs.
 
-**全部列表以及代表工作性见[这里](https://github.com/jindongwang/transferlearning/blob/master/doc/scholar_TL.md)** 
+**全部列表以及代表工作性见[这里](https://github.com/Xin98/model-compression/blob/master/doc/scholar_TL.md)** 
 
-Please note that this list is far not complete. A full list can be seen in [here](https://github.com/jindongwang/transferlearning/blob/master/doc/scholar_TL.md). Model Compression is an active field. *If you are aware of some scholars, please add them here.*
+Please note that this list is far not complete. A full list can be seen in [here](https://github.com/Xin98/model-compression/blob/master/doc/scholar_TL.md). Model Compression is an active field. *If you are aware of some scholars, please add them here.*
 
 - General Model Compression algorithms and applications:
 
@@ -161,9 +153,9 @@ Please see [HERE](https://github.com/jindongwang/transferlearning/blob/master/da
 
 ## Applications (模型压缩应用)
 
-See [HERE](https://github.com/jindongwang/transferlearning/blob/master/doc/transfer_learning_application.md) for Model Compression applications.
+See [HERE](https://github.com/Xin98/model-compression/blob/master/doc/model_compression_application.md) for Model Compression applications.
 
-模型压缩应用请见[这里](https://github.com/jindongwang/transferlearning/blob/master/doc/transfer_learning_application.md)。
+模型压缩应用请见[这里](https://github.com/Xin98/model-compression/blob/master/doc/model_compression_application.md)。
 
 - - -
   

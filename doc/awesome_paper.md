@@ -5,8 +5,8 @@ Let's read some awesome Model Compression / domain adaptation papers.
 这里收录了模型学习各个研究领域的最新文章。
 
 - [1. Awesome Model Compression Papers](#1-awesome-model-compression-papers)
-	- [1.1. Model Compression Survey (模型压缩综述)](#11-model-compression-survey模型压缩综述)
-	- [1.2. Methods of Model Compression (模型压缩的方法)](#12-methods-of-compression模型压缩的方法)
+	- [1.1. Model Compression Survey (模型压缩综述)](#11-model-compression-survey-模型压缩综述)
+	- [1.2. Methods of Model Compression (模型压缩的方法)](#12-methods-of-compression-模型压缩的方法)
 		- [1.2.1. Compact Model (密集模型)](#121-compact-model-密集模型)
 		- [1.2.2. Tensor Decomposition (张量分解)](#122-tensor-decompositio-张量分解)
 		- [1.2.3. Data Quantization (数据量化)](#123-data-quantization-数据量化)
@@ -38,4 +38,4 @@ Let's read some awesome Model Compression / domain adaptation papers.
 
 ## 1.3. Applications of Model Compression (应用)
 
-See [HERE](model_compression_application.md) for a full list of Model Compression applications.
+See [HERE](https://github.com/Xin98/model-compression/blob/master/doc/model_compression_application.md) for a full list of Model Compression applications.
